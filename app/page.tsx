@@ -20,6 +20,7 @@ export default function Home() {
           <li className="mb-2"> <a href=""> Coneption BDD </a> </li>
           <li className="mb-2"> <a href=""> Maquettage des pages </a> </li>
           <li className="mb-2"> <a href=""> Planning de Gantt des installations et développements </a> </li>
+          <li className="mb-2"> <a href=""> Historisation des dépenses </a> </li>
           <li className="mb-2"> <a href=""> Gestion des tâches d'équipes </a> </li>
         </ol>
 
